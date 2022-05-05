@@ -1,5 +1,5 @@
 # ARTCvanHotelDiscordBot
-Place to store my code for a Discord bot I am creating.
+Place to store my code for a Discord bot I am creating. Currently runs on Replit, soon to move to self-hosted Raspberry Pi server.
 
 ## What is the bot about?
 As of now, its intended purpose is to response to member messages when a certain command is typed.
