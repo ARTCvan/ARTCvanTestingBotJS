@@ -1,8 +1,8 @@
 # ARTCvanTestingBotJS
-Place to store my code for a Discord bot I was creating, now being used to learn JavaScript.
+Place to store my code for a Discord bot I was creating.
 
 ## What is the bot about?
-As of now, its intended purpose is to be a bot I can test JavaScript on.
+As of now, its intended purpose is to be a bot I can test stuff on.
 
 ## Can I use this code?
 Yes totally! This code isn't anything "top-secret" so I'm fine with people using the code, so long as you mention my GitHub name in the process.
