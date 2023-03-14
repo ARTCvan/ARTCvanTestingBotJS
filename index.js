@@ -17,14 +17,10 @@ client.on("message", msg => {
     msg.channel.type === (`"dm"`) + msg.author.send("hi") 
   }
 
-// This is a fun little easter egg for those watching the JD & AH court case, basically says the same thing the court said when AH's lawyer said objection hearsay to his own question.
-    if (msg.content === "objection hearsay") {
-    msg.reply("You asked the question...");
+  if (msg.content === "noobsmp") {
+    msg.reply("L SMP is very noob.");
   }
-
-      if (msg.content === "Objection hearsay") {
-    msg.reply("You asked the question...");
-  }
+	
 })
 client.on('ready', () => {
     // Set bot status to: "Playing $help | $support"
